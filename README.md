@@ -1,8 +1,9 @@
 # forklift-human-tracker-yolov5
 This repository is contribution for YOLOv5.
 
-Final video YouTube link: https://youtu.be/Pp9YI-KdhUQ 
-Made for EGEROBOT company. Check website: http://www.egerobot.com.tr/
+-Final video YouTube link: https://youtu.be/Pp9YI-KdhUQ 
+
+-Made for EGEROBOT company. Check website: http://www.egerobot.com.tr/
 
 # REQUIREMENTS
 First of all, what is YOLOv5?
