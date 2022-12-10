@@ -62,8 +62,8 @@ Then, in your C:\Users\YourUserName\AppData\Local\Programs\Python\Python39\Scrip
 By the way, Torch works fine with the 11.8 (the latest version of CUDA). And in case you don't have a NVIDIA GPU, then you can select the CPU option while downloading PyTorch.
 
 -In here, it might want you to update "pip" version. You can do this typing this command --> python -m pip install --upgrade pip and you can check your pytorch version running these commands:
----import torch 
----print(torch.__version__)
+-> import torch 
+-> print(torch.__version__)
 
 # IN YOLO
 -And, we finally made it to YOLOv5 directory step!
