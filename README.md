@@ -63,7 +63,7 @@ By the way, Torch works fine with the 11.8 (the latest version of CUDA). And in 
 
 -In here, it might want you to update "pip" version. You can do this typing this command --> python -m pip install --upgrade pip and you can check your pytorch version running these commands:
 -> import torch 
--> print(torch.__version__)
+-> print(torch.__ version __)
 
 # IN YOLO
 -And, we finally made it to YOLOv5 directory step!
