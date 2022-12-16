@@ -4,7 +4,13 @@
 # forklift-human-tracker-yolov5
 This repository is contribution for YOLOv5.
 
--Final video YouTube link: https://youtu.be/Pp9YI-KdhUQ 
+-My medium article for this repo: 
+
+https://medium.com/@samibarankorkmaz/how-do-you-train-your-dataset-for-your-video-with-python-yolov5-bfc21280a3cf
+
+-Final video YouTube link:
+
+https://youtu.be/Pp9YI-KdhUQ 
 
 -Made for EGEROBOT company. Check website: http://www.egerobot.com.tr/
 
